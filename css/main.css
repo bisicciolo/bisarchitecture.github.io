@@ -7805,6 +7805,13 @@ img {
     font-size: 21vw;
   }
 
+  .h2-title.h2-title-overflow-mobile {
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    font-size: 14vw;
+    text-align: center;
+  }
+
   .h2-title.h2-title-cv {
     font-size: 16vw;
   }
