@@ -3194,7 +3194,7 @@ img {
 }
 
 .cv-download {
-  position: absolute;
+  position: relative;
   left: 0%;
   top: auto;
   right: 0%;
